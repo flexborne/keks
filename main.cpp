@@ -5,4 +5,3 @@ int main() {
     return 0;
 }
 //kek
-//double kek
